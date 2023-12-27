@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?lizbelasco={lizbelasco}&theme=blue-green""
+<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 <!--
 **lizbelasco/lizbelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
