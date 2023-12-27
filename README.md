@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Lizbeth Velasco <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p>Computer Systems Engineer at <a href="https://queretaro.tecnm.mx/">TecNM Campus Querétaro</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -66,7 +67,8 @@
   </kbd>
 </p>
 
-<h1>⌨️ Programming Languages</h1>
+<h3><kbd>Front-end</kbd></h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,html,java,js,kotlin,php,py&perline=4"/>
@@ -84,13 +86,13 @@
     <img src="https://skillicons.dev/icons?i=git,androidstudio,aws,bash,blender,docker,eclipse,figma,mysql,postman,powershell,visualstudio,vscode&perline=4"/>
   </a>
 </p>
-<h1>🤝 Connect with me</h1>
+<h1><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="30px"> Connect with me</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/lizbelasco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lizbeth%20Velasco-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:lizbelasco@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-lizbelasco@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook"></a>
 </p>
 <img align="center" src="https://profile-counter.glitch.me/{lizbelasco}/count.svg"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&hide_progress=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&theme=panda&hide_progress=true&bg_color=0D1117&hide_border=true&count_private=true"/>
 <!--
 **lizbelasco/lizbelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
