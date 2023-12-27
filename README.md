@@ -20,13 +20,15 @@
 </p>
 <h1>🤝 Connect with me</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lizbelasco/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lizbelasco/" alt="maartengrootendorst"/></a>
-  <a href="mailto:lizbelasco@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/></a>
+  <a href="https://www.linkedin.com/in/lizbelasco/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lizbeth%20Velasco-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:lizbelasco@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-lizbelasco@outlook.com-blue?style=for-the-badge&logo=microsoftoutlook"></a>
 </p>
 <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizbelasco&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="lizbelasco" />
 <img align="center" src="https://profile-counter.glitch.me/{lizbelasco}/count.svg"/>
 <a href="mailto:lizbelasco@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank"><img width="48" height="48" src="https://img.icons8.com/doodle/48/ms-outlook.png" alt="ms-outlook"/></a>
+<img src="https://img.shields.io/badge/lizbelasco@outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:lizbelasco@outlook.com"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&hide_progress=true"/>
 <!--
 **lizbelasco/lizbelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
