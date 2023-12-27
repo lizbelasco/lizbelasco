@@ -93,6 +93,7 @@
 </p>
 <img align="center" src="https://profile-counter.glitch.me/{lizbelasco}/count.svg"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&theme=panda&hide_progress=true&bg_color=0D1117&hide_border=true&count_private=true"/>
+<p>© 2023 Lizbeth Velasco</p>
 <!--
 **lizbelasco/lizbelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
