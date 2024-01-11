@@ -45,4 +45,4 @@
 <h1>📈 Github Statics</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizbelasco&theme=panda&hide_progress=true&bg_color=0D1117&hide_border=true&count_private=true"/>
 <hr>
-<p align="center">© 2023 Lizbeth Velasco</p>
+<p align="center">© 2024 Lizbeth Velasco</p>
